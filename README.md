@@ -18,3 +18,4 @@ Sollte das mathematische Ergebnis den zulässigen Wertebereich überschreiten, w
 zurückgegeben.
 2. Testen Sie die Funktion in der Programmiersprache C.
 3. Wie groß darf n werden, damit das Berechnungsergebnis korrekt bleibt? 
+
